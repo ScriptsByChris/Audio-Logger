@@ -3,6 +3,10 @@
 Requirements:
 Streaming Server (local or remote) to record from & Streamripper
 
+I won't explain how to configure it, but you can install Icecast2 easily enough in Debian by running apt-get install icecast2. You can, of course, just use your existing streaming server. I typically install one on the same system as these scripts so I can record at a higher bitrate and not worrry about losing anything if my Internet connection or public streaming server go down.
+
+If streamripper is not already installed, you can do so by running apt-get install streamripper.
+
 cd /usr/local
 git clone https://github.com/ScriptsByChris/Audio-Logger
 

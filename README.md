@@ -8,9 +8,9 @@ git clone https://github.com/ScriptsByChris/Audio-Logger
 
 Edit each of the scripts and modify the following lines to reflect your station call letters or name, stream URL and where you want to save your files.
 
-Station=""
-StreamURL=""
-SaveFolderRoot=""
+Station=""<br />
+StreamURL=""<br />
+SaveFolderRoot=""<br />
 
 
 ## Record broadcast.

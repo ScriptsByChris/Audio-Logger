@@ -1,8 +1,7 @@
 # Audio-Logger
 
 Requirements:
-Streaming Server (local or remote) to record from.
-Streamripper
+Streaming Server (local or remote) to record from & Streamripper
 
 
 ## Record broadcast.
